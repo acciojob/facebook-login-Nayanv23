@@ -6,13 +6,13 @@ body {
     height: 100vh;
 }
 
-#left {
+.left {
     width: 450px;
     margin-top: 70px;
     display: inline-block;
 }
 
-#right {
+.right {
     display: inline-block;
 }
 
